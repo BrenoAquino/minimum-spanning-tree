@@ -1,1 +1,1 @@
-Algoritmo que descobre uma Árvore de Cobertura Mínima em um grafo.
+Algorithm in python to find the Minimum Spanning Tree.
